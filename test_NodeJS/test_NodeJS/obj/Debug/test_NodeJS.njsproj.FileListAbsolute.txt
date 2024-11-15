@@ -1,0 +1,3 @@
+D:\Папка сраданий\test_NodeJS\test_NodeJS\obj\Debug\test_NodeJS.njsproj.AssemblyReference.cache
+D:\Папка сраданий\test_NodeJS\test_NodeJS\obj\Debug\test_NodeJS.njsproj.CoreCompileInputs.cache
+D:\Папка сраданий\test_NodeJS\test_NodeJS\bin\Microsoft.NodejsTools.WebRole.dll
